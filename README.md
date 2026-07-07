@@ -1,5 +1,16 @@
 # 🤖 Enterprise AI Agent
-
+![Python](https://img.shields.io/badge/Python-3.12-3776AB?style=for-the-badge&logo=python)
+![FastAPI](https://img.shields.io/badge/FastAPI-Backend-009688?style=for-the-badge&logo=fastapi)
+![Streamlit](https://img.shields.io/badge/Streamlit-Frontend-FF4B4B?style=for-the-badge&logo=streamlit)
+![Ollama](https://img.shields.io/badge/Ollama-Local%20LLM-000000?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-6A1B9A?style=for-the-badge)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-Vector%20Database-5A67D8?style=for-the-badge)
+![Sentence Transformers](https://img.shields.io/badge/SentenceTransformers-Embeddings-FF9800?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-Containerized-2496ED?style=for-the-badge&logo=docker)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI/CD-2088FF?style=for-the-badge&logo=githubactions)
+![Enterprise AI](https://img.shields.io/badge/Architecture-Layered-0A66C2?style=for-the-badge)
+![REST API](https://img.shields.io/badge/API-REST-009688?style=for-the-badge)
+![Open Source](https://img.shields.io/badge/Open%20Source-Portfolio-success?style=for-the-badge&logo=github)
 An enterprise-grade Retrieval-Augmented Generation (RAG) AI assistant built with FastAPI, Streamlit, Ollama, ChromaDB, and Docker.
 
 The project demonstrates how to build a modular AI application using clean architecture principles, local Large Language Models (LLMs), semantic search, document ingestion, and enterprise-ready software engineering practices.
