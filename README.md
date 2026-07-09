@@ -210,7 +210,7 @@ Designed to demonstrate practical skills in AI Engineering, Backend Development,
 
 
 
-# Technology Stack
+## ✨ Technology Stack
 
 | Layer                   | Technology                               | Purpose                                                      |
 | ----------------------- | ---------------------------------------- | ------------------------------------------------------------ |
@@ -290,7 +290,7 @@ Embedding Model     Retrieved Context
            Streamlit Response
 
 
-# Project Structure
+## ✨ Project Structure
 
 enterprise-rag-ai-agent/
 │
@@ -523,7 +523,7 @@ Limited transparency	                          Returns referenced source documen
 🧩 Modular architecture, making it easy to swap components such as the vector database or language model.
 
 
-# Document Processing Pipeline
+## ✨ Document Processing Pipeline
 Before users can query organizational knowledge, documents must be transformed into a searchable semantic index. The Enterprise AI Agent automatically processes uploaded files through an ingestion pipeline that extracts text, generates embeddings, and stores vector representations in ChromaDB.
 
 This pipeline ensures that newly uploaded documents become immediately available for semantic search without requiring model retraining.
@@ -684,7 +684,7 @@ The modular design supports future integration with cloud object storage, enterp
 
 
 
-# Screenshots
+## ✨ Screenshots
 
 The following screenshots showcase the Enterprise AI Agent from the end-user experience through to the underlying APIs and deployment environment.
 
@@ -1023,7 +1023,7 @@ Semantic Search Ready
 
 ---
 
-# 📚 API Documentation
+## 📚 API Documentation
 
 The backend exposes a RESTful API built with **FastAPI**.
 
@@ -1102,7 +1102,7 @@ Uploaded documents are automatically:
 
 ---
 
-### Automatic API Documentation
+## ✨ API Documentation
 
 FastAPI automatically generates:
 
@@ -1136,7 +1136,7 @@ Answer Returned with Referenced Documents
 
 ---
 
-# 🚀 CI/CD Pipeline
+## 🚀 CI/CD Pipeline
 
 The project includes a GitHub Actions workflow that automatically validates every pull request and push to the repository.
 
@@ -1193,7 +1193,7 @@ This approach mirrors modern DevOps practices used across cloud-native engineeri
 
 
 
-# ☁️ Future AWS Enhancements
+## ☁️ Future AWS Enhancements
 
 Although this project is intentionally designed to run entirely on a local machine using Docker Compose, its modular architecture makes it straightforward to evolve into a cloud-native, enterprise AI platform.
 
