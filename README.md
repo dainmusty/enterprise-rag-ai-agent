@@ -23,7 +23,7 @@ Semantic Search • Local LLM • Enterprise Architecture • Docker • GitHub 
 </p>
 
 ---
-
+## 📑 Overview
 > Build once. Deploy anywhere.
 >
 > This project demonstrates how modern AI applications can be engineered using layered architecture, semantic search, vector databases, local Large Language Models, and containerized deployment while remaining cloud-ready for future AWS migration.
