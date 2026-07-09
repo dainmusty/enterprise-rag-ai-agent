@@ -256,6 +256,7 @@ Designed to demonstrate practical skills in AI Engineering, Backend Development,
 
 
 # End-to-End Technology Flow
+```
                 User
                   │
                   ▼
@@ -289,6 +290,7 @@ Embedding Model     Retrieved Context
                   │
                   ▼
            Streamlit Response
+```           
 
 
 ## ✨ Project Structure
