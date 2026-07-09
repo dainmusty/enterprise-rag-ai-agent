@@ -818,7 +818,7 @@ Upload enterprise documents through the upload API or place supported documents 
 
 
 
-## 🐳 Docker Deployment
+## 🐳 Running with Docker
 
 The application is fully containerized using Docker Compose, allowing the complete AI platform to be launched with a single command.
 
