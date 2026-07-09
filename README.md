@@ -172,6 +172,7 @@ Designed to demonstrate practical skills in AI Engineering, Backend Development,
 
 
 # Overall System Architecture
+```
                     +---------------------------+
                     |      Streamlit UI         |
                     +-------------+-------------+
@@ -207,7 +208,7 @@ Designed to demonstrate practical skills in AI Engineering, Backend Development,
          | ChromaDB      |                 | Ollama (Llama 3.2)   |
          | Vector Store  |                 | Local LLM            |
          +---------------+                 +----------------------+
-
+```
 
 
 ## ✨ Technology Stack
