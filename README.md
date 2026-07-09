@@ -158,7 +158,7 @@ This repository demonstrates not only AI integration, but also enterprise softwa
 
 ---
 
-### 🏗️ Enterprise Architecture
+## 🏗️ Architecture
 
 - Clean layered architecture
 - Modular project structure
