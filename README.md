@@ -691,22 +691,26 @@ The following screenshots showcase the Enterprise AI Agent from the end-user exp
 1. Enterprise AI Assistant
 The Streamlit web interface provides a simple conversational experience for querying organizational knowledge. Users submit natural-language questions and receive grounded responses with referenced documents.
 Why it matters: Demonstrates the complete user experience and AI capabilities.
+
 ![Enterprise AI Assistant](docs/screenshots/01-streamlit-home.png)
 
 
 2. AI Response with Referenced Documents
 Responses are generated using Retrieval-Augmented Generation (RAG) and include the documents that contributed to the answer, improving transparency and trust.
+
 ![AI Response](docs/screenshots/02-ai-response.png)
 
 
 3. Document Upload & Knowledge Base
 Demonstrates how enterprise documents are uploaded, indexed, and made immediately searchable without retraining the language model.
+
 ![Document Upload](docs/screenshots/03-document-upload.png)
 
 
 4. Swagger API Documentation
 
 The FastAPI backend automatically generates interactive API documentation for testing chat and document ingestion endpoints.
+
 ![Swagger](docs/screenshots/04-swagger.png)
 
 
@@ -720,6 +724,7 @@ Frontend (Streamlit)
 Backend (FastAPI)
 Ollama
 Ollama Model Initializer
+
 ![Docker Compose](docs/screenshots/05-docker-compose.png)
 
 
