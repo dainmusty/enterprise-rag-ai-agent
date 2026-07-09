@@ -1,36 +1,36 @@
-Presentation Layer
-──────────────────────────────────
-Streamlit UI
+             Enterprise RAG AI Agent
 
-API Layer
-──────────────────────────────────
-FastAPI
-Routers
-Middleware
-Exception Handling
-
-Business Layer
-──────────────────────────────────
-Chat Service
-RAG Service
-Prompt Service
-LLM Service
-Retrieval Service
-Ingestion Service
-
-Infrastructure Layer
-──────────────────────────────────
-Embedding Client
-Chroma Client
-Ollama Client
-
-Persistence Layer
-──────────────────────────────────
-ChromaDB
-Uploaded Documents
-
-External Systems
-──────────────────────────────────
-Ollama
-Sentence Transformers
-
+┌──────────────────────────────────────────────┐
+│ 🖥️ Presentation Layer                        │
+│ Streamlit                                    │
+└──────────────────────────────────────────────┘
+                     │
+                     ▼
+┌──────────────────────────────────────────────┐
+│ 🚀 API Layer                                 │
+│ FastAPI • Routers • Middleware               │
+└──────────────────────────────────────────────┘
+                     │
+                     ▼
+┌──────────────────────────────────────────────┐
+│ 🧠 Application Layer                         │
+│ Chat • RAG • Retrieval • Prompt • Ingestion  │
+└──────────────────────────────────────────────┘
+                     │
+                     ▼
+┌──────────────────────────────────────────────┐
+│ 🤖 AI Services                               │
+│ Ollama • Embeddings • LLM                    │
+└──────────────────────────────────────────────┘
+                     │
+                     ▼
+┌──────────────────────────────────────────────┐
+│ 💾 Persistence                               │
+│ ChromaDB • Enterprise Documents              │
+└──────────────────────────────────────────────┘
+                     │
+                     ▼
+┌──────────────────────────────────────────────┐
+│ ☁️ External Components                        │
+│ Ollama • Sentence Transformers • Docker      │
+└──────────────────────────────────────────────┘
