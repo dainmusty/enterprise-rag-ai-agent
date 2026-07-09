@@ -45,7 +45,7 @@ Semantic Search • Local LLM • Enterprise Architecture • Docker • GitHub 
 - [Architecture](#-architecture)
 - [Technology Stack](#-technology-stack)
 - [Project Structure](#-project-structure)
-- [Retrieval-Augmented Generation (RAG) Pipeline](#retrieval-augmented-generation-rag-pipeline)
+- [Retrieval-Augmented Generation (RAG) Pipeline](#-retrieval-augmented-generation-rag-pipeline)
 - [Document Processing Pipeline](#-document-processing-pipeline)
 - [Screenshots](#-screenshots)
 - [Quick Start](#-quick-start)
