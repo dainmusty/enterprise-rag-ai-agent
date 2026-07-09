@@ -642,6 +642,7 @@ No model retraining or application restart is required.
 New documents are automatically available for future queries through the RAG pipeline.
 
 📊 Processing Lifecycle
+```
 Raw Document
       │
       ▼
@@ -661,9 +662,9 @@ Raw Document
       │
       ▼
  LLM Response Generation
+```
 
-
-✨ Design Highlights
+# ✨ Design Highlights
 
 The document processing pipeline was designed with enterprise scalability and maintainability in mind.
 
