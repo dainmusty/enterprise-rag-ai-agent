@@ -353,6 +353,7 @@ enterprise-rag-ai-agent/
 | **utils**    | Text chunking, hashing, and reusable helper functions        |
 
 # Document Lifecycle
+```
 Upload Document
       │
       ▼
@@ -402,6 +403,7 @@ Generated Response
       │
       ▼
 Streamlit UI
+```
 
 # Design Principles
 This project was designed around several software engineering best practices:
