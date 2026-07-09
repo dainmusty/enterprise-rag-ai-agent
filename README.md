@@ -1193,7 +1193,7 @@ This approach mirrors modern DevOps practices used across cloud-native engineeri
 
 
 
-## ☁️ Future AWS Enhancements
+## 📚 Future AWS Enhancements
 
 Although this project is intentionally designed to run entirely on a local machine using Docker Compose, its modular architecture makes it straightforward to evolve into a cloud-native, enterprise AI platform.
 
