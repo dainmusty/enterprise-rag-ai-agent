@@ -45,7 +45,7 @@ Semantic Search • Local LLM • Enterprise Architecture • Docker • GitHub 
 - [Architecture](#-architecture)
 - [Technology Stack](#-technology-stack)
 - [Project Structure](#-project-structure)
-- [RAG Pipeline](#-rag-pipeline)
+- [Retrieval-Augmented Generation (RAG) Pipeline](#-rag-pipeline)
 - [Document Processing Pipeline](#-document-processing-pipeline)
 - [Screenshots](#-screenshots)
 - [Quick Start](#-quick-start)
@@ -412,7 +412,7 @@ Cloud-Ready Design, allowing local components to be replaced with managed AWS se
 
 
 
-# Retrieval-Augmented Generation (RAG) Pipeline
+## ✨ Retrieval-Augmented Generation (RAG) Pipeline
 
 The Enterprise AI Agent uses a Retrieval-Augmented Generation (RAG) architecture to provide accurate, context-aware responses grounded in your organization's documents.
 
