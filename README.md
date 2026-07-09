@@ -294,7 +294,7 @@ Embedding Model     Retrieved Context
 
 
 ## ✨ Project Structure
-
+```
 enterprise-rag-ai-agent/
 │
 ├── backend/
@@ -339,7 +339,7 @@ enterprise-rag-ai-agent/
 ├── .gitignore
 ├── LICENSE
 └── README.md
-
+```
 
 # Backend Architecture
 | Package      | Responsibility                                               |
