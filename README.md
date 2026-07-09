@@ -156,9 +156,9 @@ This repository demonstrates not only AI integration, but also enterprise softwa
 - Persistent storage using Docker volumes
 - Easy local deployment with a single command
 
----
 
-## 🏗️ Architecture
+
+## 🚀 Architecture
 
 - Clean layered architecture
 - Modular project structure
